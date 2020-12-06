@@ -1,3 +1,28 @@
+# Rough Plan
+CSV files Data analysis:
+	- Filter for only Baltimore City, MD
+	- Facility (vs. Standard Parent CO Name?)
+	- Industry sector
+	- Chemical (vs. Classification vs. Carcinogen?)
+	- Total releases
+	- Concentration of Baltimore City vs. State of Maryland
+
+Data Visualizations:
+	- Bar graphs (for facilities, industry sector, chemicals)
+	- Pie chart (for baltimore city vs MD)
+	- Pivot table --> Line graph for trends over the years (pick the top 5 or top 10 chemicals and look at how release have changed over 4 years)
+	- Cluster analysis? Is this even possible
+	- Map visualization (Python)
+	
+	
+What are we looking at?
+	- Trends over a period of 4 years
+	- Recurring facilities/company
+	- Top chemicals ===> human affects
+	- Does this impact the residents of Baltimore City?
+	- --> map the top 10 offenders in a map of Baltimore --> look to see if it's near residential neighborhoods or areas where there is foot traffic i.e. near restaurants etc.
+Future waste management reform --> are there existing health and safety measures (tie to stuff we learned in EAYH <3)
+
 # Explanatory Project Title
 2-3 sentences that explain your “business question” and some high-level findings and suggestions. This is like the abstract of your executive summary. Tell the reader a little bit about your business question, why this is important, a high-level finding, and the future implications of your findings. This can include some statistics, but shouldn’t dive deep into specifics about your analysis. Make this short and captivating so that the user wants to continue reading about this topic and what you’ve done. You can use bullet points in this section to emphasize some key points or findings that are further explained in the:
 
