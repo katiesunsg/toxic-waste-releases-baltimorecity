@@ -1,5 +1,5 @@
 # Rough Plan
-CSV files Data analysis:
+### CSV files Data analysis:
 - Filter for only Baltimore City, MD
 - Facility (vs. Standard Parent CO Name?)
 - Industry sector
@@ -7,7 +7,7 @@ CSV files Data analysis:
 - Total releases
 - Ioncentration of Baltimore City vs. State of Maryland
 
-Data Visualizations:
+### Data Visualizations:
 - Bar graphs (for facilities, industry sector, chemicals)
 - Pie chart (for baltimore city vs MD)
 - Pivot table --> Line graph for trends over the years (pick the top 5 or top 10 chemicals and look at how release have changed over 4 years)
@@ -15,10 +15,10 @@ Data Visualizations:
 - Map visualization (Python)
 	
 	
-What are we looking at?
+### What are we looking at?
 - Trends over a period of 4 years
 - Recurring facilities/company
-- Top chemicals ===> human affects
+- Top chemicals ===> human effects
 - Does this impact the residents of Baltimore City? --> map the top 10 offenders in a map of Baltimore --> look to see if it's near residential neighborhoods or areas where there is foot traffic i.e. near restaurants etc.
 - Future waste management reform --> are there existing health and safety measures (tie to stuff we learned in EAYH <3)
 
