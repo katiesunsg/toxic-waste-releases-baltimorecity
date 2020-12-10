@@ -19,11 +19,13 @@
 
 EXCEL: pivot table --> pie chart Baltimore # of releases per year vs MD)
 bar graph: releases per classification (tri, pbt, dioxin)
+bar graph Baltimore City total releases (lbs) vs MD per year
 top 10 facilities --> map based on address
 and scatter graph of four years for the top 10 facilities
 
-PYTHON: pivot table --> over 4 years line graph of total releases per year
-bar graph Baltimore City total releases (lbs) vs MD per year
+PYTHON: pivot table --> over 4 years line or bar graph of total releases per year 
+pivot table --> bar graph facilities in Baltimore city (combine for all 4 years)
+
 	
 ### What are we looking at?
 - Trends over a period of 4 years
