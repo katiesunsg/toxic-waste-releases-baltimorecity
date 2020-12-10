@@ -12,7 +12,16 @@
 - Pie chart (for baltimore city vs MD)
 - Pivot table --> Line graph for trends over the years (pick the top 5 or top 10 chemicals and look at how release have changed over 4 years)
 - Map visualization (Python)
-	
+
+# Outline
+1. Filter data by excel to just Baltimore City, facility name, zip code, industry sector, standard parent company name, total released (pounds), classification (tri, pbt, or dioxin), carcinogen (yes or no)
+EXCEL: pivot table --> pie chart Baltimore # of releases per year vs MD)
+bar graph: releases per classification (tri, pbt, dioxin)
+top 10 facilities --> map based on address
+and scatter graph of four years for the top 10 facilities
+
+PYTHON: pivot table --> over 4 years line graph of total releases per year
+bar graph Baltimore City total releases (lbs) vs MD per year
 	
 ### What are we looking at?
 - Trends over a period of 4 years
