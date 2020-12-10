@@ -5,13 +5,12 @@
 - Industry sector
 - Chemical (vs. Classification vs. Carcinogen?)
 - Total releases
-- Ioncentration of Baltimore City vs. State of Maryland
+- Concentration of Baltimore City vs. State of Maryland
 
 ### Data Visualizations:
 - Bar graphs (for facilities, industry sector, chemicals)
 - Pie chart (for baltimore city vs MD)
 - Pivot table --> Line graph for trends over the years (pick the top 5 or top 10 chemicals and look at how release have changed over 4 years)
-- Cluster analysis? Is this even possible
 - Map visualization (Python)
 	
 	
