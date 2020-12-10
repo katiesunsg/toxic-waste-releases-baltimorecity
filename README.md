@@ -15,6 +15,8 @@
 
 # Outline
 1. Filter data by excel to just Baltimore City, facility name, zip code, industry sector, standard parent company name, total released (pounds), classification (tri, pbt, or dioxin), carcinogen (yes or no)
+
+
 EXCEL: pivot table --> pie chart Baltimore # of releases per year vs MD)
 bar graph: releases per classification (tri, pbt, dioxin)
 top 10 facilities --> map based on address
