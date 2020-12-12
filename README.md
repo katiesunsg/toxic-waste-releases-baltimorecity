@@ -13,6 +13,19 @@
 - Pivot table --> Line graph for trends over the years (pick the top 5 or top 10 chemicals and look at how release have changed over 4 years)
 - Map visualization (Python)
 
+
+# I don't think we need to include all of them in our github but for sure the report for whichever we choose ill just have them down below so it's easier to visualize all at once
+
+![image1](https://github.com/katiesunsg/toxic-waste-releases-baltimorecity/blob/main/PieChart.png)
+![image2](https://github.com/katiesunsg/toxic-waste-releases-baltimorecity/blob/main/annualreleasecounttop7.png)
+![image3](https://github.com/katiesunsg/toxic-waste-releases-baltimorecity/blob/main/classification.png)
+![image4](https://github.com/katiesunsg/toxic-waste-releases-baltimorecity/blob/main/totalcountoverall.png)
+![image5](https://github.com/katiesunsg/toxic-waste-releases-baltimorecity/blob/main/sortedtopfacilitiespython.png)
+![image6](https://github.com/katiesunsg/toxic-waste-releases-baltimorecity/blob/main/totaltoxicwasteMD.png)
+![image7](https://github.com/katiesunsg/toxic-waste-releases-baltimorecity/blob/main/totalwastereleasedtop7.png)
+![image8](https://github.com/katiesunsg/toxic-waste-releases-baltimorecity/blob/main/wastereleasesector.png)
+
+
 # Outline
 1. Filter data by excel to just Baltimore City, facility name, zip code, industry sector, standard parent company name, total released (pounds), classification (tri, pbt, or dioxin), carcinogen (yes or no)
 
