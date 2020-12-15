@@ -26,9 +26,7 @@
 ![image8](https://github.com/katiesunsg/toxic-waste-releases-baltimorecity/blob/main/wastereleasesector.png)
 
 
-![image9](
-
-
+![image9](https://github.com/katiesunsg/toxic-waste-releases-baltimorecity/blob/main/Red%20Top%207%20Facilities%20Map.JPG) 
 Addresses for the top 7 facilities:
 Brandon Shores and Wagner Complex: 1005 Brandon Shores Road in Baltimore, Maryland 21226
 Galvco Mayland LLC: 7110 Quad Avenue, Baltimore, MD 21237
