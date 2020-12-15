@@ -26,6 +26,18 @@
 ![image8](https://github.com/katiesunsg/toxic-waste-releases-baltimorecity/blob/main/wastereleasesector.png)
 
 
+![image9](
+
+
+Addresses for the top 7 facilities:
+Brandon Shores and Wagner Complex: 1005 Brandon Shores Road in Baltimore, Maryland 21226
+Galvco Mayland LLC: 7110 Quad Avenue, Baltimore, MD 21237
+Grace Davison Curtis Bay Works: 5500 Chemical Rd, Curtis Bay, MD 21226
+Prince Specialty Products LLC: 610 Pittman Rd, Baltimore, MD 21226-1792
+Serwin Williams Co: 909 E Fort Ave, Baltimore, MD 21230
+Southern Galvanizing Co: 1620 Bush St, Baltimore, MD 21230
+Tnemec Company, Inc: 2300 Edgewater Avenue, Dundalk, Maryland, 21222
+
 # Outline
 1. Filter data by excel to just Baltimore City, facility name, zip code, industry sector, standard parent company name, total released (pounds), classification (tri, pbt, or dioxin), carcinogen (yes or no)
 
