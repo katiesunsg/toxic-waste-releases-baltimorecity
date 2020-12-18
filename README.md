@@ -53,4 +53,4 @@ Southern Galvanizing Co: 1620 Bush St, Baltimore, MD 21230
 Tnemec Company, Inc: 2300 Edgewater Avenue, Dundalk, Maryland, 21222
 
 ## Final Report
-Our final report is our reccomendation to the Baltimore Office of Sustainability with our abstract, background, data findings and interpretations, proposed solution, and future steps.
+***Our final report here is our reccomendation to the Baltimore Office of Sustainability with our abstract, background, data findings and interpretations, proposed solution, and future steps.***
