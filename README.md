@@ -54,3 +54,4 @@ Tnemec Company, Inc: 2300 Edgewater Avenue, Dundalk, Maryland, 21222
 
 ## Final Report
 ***Our final report here is our reccomendation to the Baltimore Office of Sustainability with our abstract, background, data findings and interpretations, proposed solution, and future steps.***
+[Final Report](https://github.com/katiesunsg/toxic-waste-releases-baltimorecity/blob/main/B'More%20Green%20Final%20Report.pdf) 
