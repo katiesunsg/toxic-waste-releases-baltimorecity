@@ -8,7 +8,9 @@ Our proposed solution is the creation of an initiative called “B’more Green'
 ## Links to Data Sources and Analysis 
 Complete TRI Data Set:
 [TRI Data Set](https://github.com/katiesunsg/toxic-waste-releases-baltimorecity/blob/main/DataVisualizations_TRI_Dataset.xlsx)
+
 Individual Year Data Sets:
+
 [2016 Data](https://raw.githubusercontent.com/katiesunsg/toxic-waste-releases-baltimorecity/main/combined%20filtered.csv)
 
 [2017 Data](https://raw.githubusercontent.com/katiesunsg/toxic-waste-releases-baltimorecity/main/tri_2016_md.csv)
@@ -34,7 +36,8 @@ Analysis of data visualizations are included in the pdf write up.
 ![image7](https://github.com/katiesunsg/toxic-waste-releases-baltimorecity/blob/main/totalwastereleasedtop7.png)
 ![image8](https://github.com/katiesunsg/toxic-waste-releases-baltimorecity/blob/main/wastereleasesector.png)
 ![image9](https://github.com/katiesunsg/toxic-waste-releases-baltimorecity/blob/main/Red%20Top%207%20Facilities%20Map.JPG) 
-Addresses for the top 7 facilities:
+### Addresses for the top 7 facilities:
+
 Brandon Shores and Wagner Complex: 1005 Brandon Shores Road in Baltimore, Maryland 21226
 
 Galvco Mayland LLC: 7110 Quad Avenue, Baltimore, MD 21237
